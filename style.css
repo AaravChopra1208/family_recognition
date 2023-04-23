@@ -1,0 +1,11 @@
+body{
+    background-color: deeppink;
+    }
+    .heading{
+    width:70%;
+    }
+    #camera{
+    border-style: dashed;    
+    border-width: 1px;
+    border-color: black;
+    }
